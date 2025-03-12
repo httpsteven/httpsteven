@@ -1,7 +1,7 @@
-# **<img src="https://img.icons8.com/emoji/48/hand-wave.png" width="30"/> Hey, I'm Steven!**  
+# **<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/hand-thumbs-up-fill.svg" width="30"/> Hey, I'm Steven!**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=httpsteven&style=flat-square)  
-<img src="https://img.icons8.com/fluency/48/developer.png" width="25"/> **Software Developer | Full-Stack Enthusiast | Hardware Hobbyist**  
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/code-slash.svg" width="25"/> **Software Developer | Full-Stack Enthusiast | Hardware Hobbyist**  
 
 <div align="center">
   <img src="https://media4.giphy.com/media/a5viI92PAF89q/giphy.gif" width="50">
@@ -11,16 +11,16 @@
 
 ---
 
-## **<img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/58/000000/external-about-me-web-smashingstocks-flat-smashing-stocks.png" width="25"/> About Me**
-- <img src="https://img.icons8.com/color/24/computer.png"/> **Full-Stack Developer** proficient in front-end & back-end technologies  
-- <img src="https://img.icons8.com/color/24/mechanical-keyboard.png"/> **Hardware Enthusiast** – Love building custom keyboards & 3D printing  
-- <img src="https://img.icons8.com/color/24/marker.png"/> **Based in** El Paso, TX  
+## **<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/person-fill.svg" width="25"/> About Me**
+- <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/cpu-fill.svg" width="20"/> **Full-Stack Developer** proficient in front-end & back-end technologies  
+- <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/keyboard-fill.svg" width="20"/> **Hardware Enthusiast** – Love building custom keyboards & 3D printing  
+- <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/geo-alt-fill.svg" width="20"/> **Based in** El Paso, TX  
 
 ---
 
 ## **🚀 Tech Stack**
 
-### **Front-End** <img src="https://img.icons8.com/color/24/web.png"/>
+### **Front-End** <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/window-sidebar.svg" width="20"/>
 - **Languages:**  
   - HTML  
   - CSS  
@@ -30,7 +30,7 @@
   - React  
   - Vue.js  
 
-### **Back-End** <img src="https://img.icons8.com/color/24/server.png"/>
+### **Back-End** <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/server.svg" width="20"/>
 - **Languages:**  
   - Node.js  
   - Python  
@@ -38,12 +38,12 @@
   - Express.js  
   - Django  
 
-### **Databases** <img src="https://img.icons8.com/color/24/database.png"/>
+### **Databases** <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/database-fill.svg" width="20"/>
 - PostgreSQL  
 - MySQL  
 - SQL Server  
 
-### **DevOps & Tools** <img src="https://img.icons8.com/color/24/cloud-computing.png"/>
+### **DevOps & Tools** <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/cloud-fill.svg" width="20"/>
 - AWS  
 - Docker  
 - Git  
@@ -51,13 +51,13 @@
 
 ---
 
-## **📫 Connect With Me** <img src="https://img.icons8.com/color/24/link.png"/>
+## **📫 Connect With Me** <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/link.svg" width="20"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-carrillo-aa0329228/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://stevencarrillo.net)  
 
 ---
 
-## **📊 GitHub Stats** <img src="https://img.icons8.com/fluency/24/github.png"/>
+## **📊 GitHub Stats** <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/github.svg" width="20"/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=httpsteven&theme=dark&hide_border=true" />
   <br>
@@ -66,7 +66,7 @@
 
 ---
 
-## **🎯 Fun Fact** <img src="https://img.icons8.com/color/24/3d-printer.png"/>
+## **🎯 Fun Fact** <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/tools.svg" width="20"/>
 **When I'm not coding, I enjoy building custom mechanical keyboards and exploring the world of 3D printing.**  
 This hobby allows me to blend creativity with technical skills, resulting in personalized tools that enhance my productivity.  
 
