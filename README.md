@@ -4,9 +4,9 @@
 🚀 **Software Developer | Full-Stack Enthusiast | Hardware Hobbyist**  
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV1amkwNWJvc3IzcDdrdmgyYWJ1cDF6MmwzcTcxNGdvOGh2OGIzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif)" width="50">
+  <img src="https://media4.giphy.com/media/a5viI92PAF89q/giphy.gif" width="50">
   <b>Passionate about building efficient web applications and optimizing backend systems.</b>
-  <img src="[https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV1amkwNWJvc3IzcDdrdmgyYWJ1cDF6MmwzcTcxNGdvOGh2OGIzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif)" width="50">
+  <img src="https://media4.giphy.com/media/a5viI92PAF89q/giphy.gif" width="50">
 </div>
 
 ---
@@ -71,7 +71,7 @@
 This hobby allows me to blend creativity with technical skills, resulting in personalized tools that enhance my productivity.  
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/l41m4tiKeW7waqOli/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW0yMHdxNm4zM2VjM2JjejZzYm9oeW1tMWUyaWhlOGRibWFvbmtxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif)" width="200">
+  <img src="https://media2.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="200">
 </div>
 
 ---
