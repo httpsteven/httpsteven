@@ -1,62 +1,64 @@
-# **<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="#FF5733" viewBox="0 0 16 16"> <path d="M6.956 1.745C7.021 1.538 7.146 1.357 7.318 1.23c.171-.126.386-.181.603-.17h.002c.252.005.509.078.733.224.224.146.422.341.582.566.16.224.286.467.371.712.085.245.15.492.199.736l.002.01c.05.24.077.48.077.716v4.689l-.5.5v5a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-5c0-.265.105-.52.293-.707A1 1 0 0 1 2 8h1.5l.11-.003h.49l.276-1.106a1 1 0 0 1 .204-.38l1.646-1.646a.5.5 0 0 1 .707 0zM2 9v5h4V9H2z"/> </svg> Hey, I'm Steven!**  
+# Hi there, I'm Steven! 👋  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=httpsteven&style=flat-square)  
-<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="#FF5733" viewBox="0 0 16 16"> <path d="M10.478 1.647a.5.5 0 0 1 .646.271l3 7a.5.5 0 0 1-.916.39l-3-7a.5.5 0 0 1 .27-.646zM5.354 2.354a.5.5 0 0 1 0 .708L1.707 6.707a1 1 0 0 0 0 1.414L5.354 12.95a.5.5 0 1 1-.708.708l-3.646-3.646a2 2 0 0 1 0-2.828L4.646 2.354a.5.5 0 0 1 .708 0z"/> </svg> **Software Developer | Full-Stack Enthusiast | Hardware Hobbyist**  
+![Software Developer](https://img.shields.io/badge/Software%20Developer-F56342?style=for-the-badge&logo=code&logoColor=white)  
+![Full-Stack Enthusiast](https://img.shields.io/badge/Full--Stack%20Enthusiast-0078D7?style=for-the-badge&logo=stack-exchange&logoColor=white)  
+![Hardware Hobbyist](https://img.shields.io/badge/Hardware%20Hobbyist-FFC107?style=for-the-badge&logo=wrench&logoColor=white)  
+
 <div align="center">
-<img src="https://media4.giphy.com/media/a5viI92PAF89q/giphy.gif" width="200">
-  </div>
-<div align="center">
-  
-  <b>Full-stack developer dedicated to building high-performance web applications and architecting scalable backend systems.</b>
+  <img src="https://media4.giphy.com/media/a5viI92PAF89q/giphy.gif" width="200">
 </div>
 
----
-
-## **<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="#FF5733" viewBox="0 0 16 16"> <path d="M3 14s-1 0-1-1V3a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v10s0 1-1 1H3zm10-1V3H3v10h10z"/> </svg> About Me**
-- <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#FF5733" viewBox="0 0 16 16"> <path d="M5 0h6a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2zm1 2a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H6z"/> </svg> **Full-Stack Developer** proficient in front-end & back-end technologies  
-- <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#FF5733" viewBox="0 0 16 16"> <path d="M1 4a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4zm10 2h1v1h-1V6zm-2 0h1v1H9V6zm-2 0h1v1H7V6zm-2 0h1v1H5V6zm10 2h1v1h-1V8zm-2 0h1v1h-1V8zm-2 0h1v1h-1V8zm-2 0h1v1H7V8zm-2 0h1v1H5V8z"/> </svg> **Hardware Enthusiast** – Love building custom keyboards & 3D printing  
+## **💡 About Me**
+- 🛠 **Full-Stack Developer** proficient in front-end & back-end technologies  
+- ⌨ **Hardware Enthusiast** – Love building custom keyboards & 3D printing  
+- 📍 **Based in El Paso, TX**  
+- 🚀 **Always learning and improving my tech stack**  
+- ☕ **Fueled by coffee, efficiency, and innovation**  
 
 ---
 
 ## **🚀 Tech Stack**
-![Svelte](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-%230055FF.svg?style=flat&logo=stripe&logoColor=white)
+![Svelte](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-%230055FF.svg?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
-## **Experienced In**
 
-### **Front-End** <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/window-sidebar.svg" width="20" style="filter: invert(100%) sepia(90%) saturate(700%) hue-rotate(360deg) brightness(95%) contrast(90%);"/>
-- **Languages:**  
-  - HTML  
-  - CSS  
-  - JavaScript  
-- **Frameworks/Libraries:**  
-  - SvelteKit  
-  - React  
-  - Vue.js  
+## **⚡ Experienced In**
+### **Front-End**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-### **Back-End** <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/server.svg" width="20" style="filter: invert(100%) sepia(90%) saturate(700%) hue-rotate(360deg) brightness(95%) contrast(90%);"/>
-- **Languages:**  
-  - Node.js  
-  - Python  
-- **Frameworks:**  
-  - Express.js  
-  - Django  
+### **Back-End**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
-### **Databases** <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/database-fill.svg" width="20" style="filter: invert(100%) sepia(90%) saturate(700%) hue-rotate(360deg) brightness(95%) contrast(90%);"/>
-- PostgreSQL  
-- MySQL  
-- SQL Server  
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### **DevOps & Tools** <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/icons/cloud-fill.svg" width="20" style="filter: invert(100%) sepia(90%) saturate(700%) hue-rotate(360deg) brightness(95%) contrast(90%);"/>
-- AWS  
-- Docker  
-- Git  
-- CI/CD Pipelines  
+### **DevOps & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## **📫 Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-carrillo-aa0329228/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://stevencarrillo.net)
 
 ---
 
